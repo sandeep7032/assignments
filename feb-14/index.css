@@ -1,0 +1,141 @@
+body{
+    margin: 0px;
+}
+
+.list{
+    display: flex;
+}
+
+.nav{
+    display: inline-block;
+}
+
+#a{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: -20px;
+}
+
+#b{
+    width: 90px;
+    height: 60px;
+    margin-left: 30px;
+}
+
+#c{
+   margin-top: 10px;
+   margin-left: 100px;
+   width: 550px;
+   height: 40px;
+}
+
+#d{
+   margin-top: 10px;
+   width: 60px;
+    height: 40px;
+    margin-left: -1px;
+    cursor: pointer; 
+}
+
+#e{
+    width: 20px;
+    height: 20px;
+}
+
+#f{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+
+#g{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+#h{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#i{
+    width: 30px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#j{
+    width: 100px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: blue;
+}
+
+#k{
+    width: 10px;
+    height: 10px;
+}
+
+.video{
+    display: flex;
+}
+
+.image{
+    display: inline-block;
+    display: flex;
+}
+
+.a1{
+    width: 250px;
+    height: 200px;
+}
+
+.text{
+    text-decoration: none;
+    color: black;
+}
+
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+#list1{
+    margin: 20px;
+}
+
+#list2{
+    margin: 20px;
+}
+
+#list3{
+    margin: 20px;
+}
+
+#list4{
+    margin: 20px;
+}
+
+.button{
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    margin-left: -40px;
+    cursor: pointer;
+}
+
+.h4{
+    width: 180px;
+    margin-left: 20px;
+}
