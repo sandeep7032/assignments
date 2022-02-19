@@ -79,11 +79,14 @@ body{
     margin-left: 10px;
     background-color: transparent;
     border-color: blue;
+    color: blue;
 }
 
 #k{
-    width: 10px;
-    height: 10px;
+    width: 11px;
+    height: 11px;
+    margin-top: 4px;
+    margin-right: 4px;
 }
 
 .video{
