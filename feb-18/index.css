@@ -1,0 +1,47 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.sun{
+	font-weight: bold;}
+    h3{
+        text-align: center;
+        font-size: 35px;
+        color: orangered;
+    }
+table{
+    border: 4; 
+    background-color: rgb(235, 208, 208);
+    color: rgb(0, 0, 0);
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%;
+}
+#head{
+    background-color: rgb(81, 89, 134);
+    border: 1px;
+    font-size: 19px;
+}
+td{
+    border: 1px solid rgb(22, 22, 22);
+    padding: 6px;
+}
+th{
+    border: 1px solid black;
+}
+tr:nth-child(3n){
+	background: lightgray;	
+}
+tr:nth-child(3n+1){
+	background: gray;
+	
+}
+tr:nth-child(3n+2){
+	background: darkgrey;	
+}
+
+
+
+
+
+
