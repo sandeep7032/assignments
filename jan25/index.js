@@ -1,6 +1,6 @@
 assignment 1
 
-/*
+
 
 var num = prompt("enter the number");
 if (num <10){
@@ -13,7 +13,6 @@ else{
 	console.log("number is  greater than  10");
 }
 
-*/
 
 assignment 2
 
