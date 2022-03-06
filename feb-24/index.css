@@ -1,0 +1,114 @@
+
+
+body{
+    background: url(https://api.time.com/wp-content/uploads/2014/03/facebook-profile-2009.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-top: 13.6%;
+    min-height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+form
+{
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    right: 5px;    
+}
+.head
+{
+    margin: 0;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(219, 220, 224);
+    border: 1px solid rgb(209, 208, 208);    
+}
+.name:hover
+{
+    cursor: pointer;
+}
+.icons
+{
+    margin: 0;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(219, 220, 224);    
+}
+.icons img
+{
+    opacity: 0.5;
+}
+.icons:hover
+{
+    cursor: pointer;
+}
+.on-off
+{    
+    border: 1px solid rgb(197, 191, 191);
+}
+.on-off pre
+{   
+    opacity: 0.5;
+}
+.on-off a
+{  
+    text-decoration: none;
+}
+.time
+{
+    min-height: 300px;
+    height: 400px;
+    border: 1px solid rgb(197, 191, 191);
+}
+.time h6
+{
+    text-align: center;
+    font-size: 10px;
+    opacity: 0.5;
+}
+.chat
+{
+    height: 280px;
+    overflow-y: scroll;
+    
+}
+.chat [type=name]
+{
+    border: none;
+    ba
+}
+.message
+{
+    width: 3px;
+    margin-top: -1%;
+}
+.message [type=name]
+{
+    width: 313.5px;
+    padding: 9px;
+    border-bottom: none;
+    border-left: none;
+}
+.add
+{
+    display: flex;
+}
+.add > #emoji:hover
+{
+    cursor: pointer;
+    background-color: rgb(197, 185, 185);
+}
+.chat [type=name]
+{
+    border-radius: 27px;
+    background: rgb(23, 77, 255);
+    padding: 14px;
+    color: white;
+    font-weight: bolder;
+}
