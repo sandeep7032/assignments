@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.game button
+{
+    height: 50px;
+    width: 60px;    
+}
+.game
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 30px;
+    color: rgb(5, 45, 177);
+}
+button:hover
+{
+    background-color: rgb(29, 132, 216);
+    border-radius: 10px;
+}
+.output
+{
+    background-color: rgb(147, 147, 240);
+    color: rgb(17, 17, 17);
+    padding: 30px;
+    text-align: center;
+    font-size: larger;
+}
