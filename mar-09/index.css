@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    background: url(https://media.istockphoto.com/photos/timeline-planning-checklist-or-business-plan-with-calendar-date-on-picture-id1211255735?k=20&m=1211255735&s=612x612&w=0&h=eT_yt1ZzUGw053m8ycranQWs8-kL0VDv67DrqfxNGxw=);
+}
+button{
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: blanchedalmond;
+    width: 50px;
+    height: 30px;
+    margin-left: 20px;
+}
+input{
+    border-radius: 20px;
+    height: 30px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
